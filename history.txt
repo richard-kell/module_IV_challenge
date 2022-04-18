@@ -1,0 +1,500 @@
+   68  ls
+   69  cd ..
+   70  ls
+   71  cd fix_column_header/
+   72  ls
+   73  cd 02_Fix_Column_Headers/
+   74  ls
+   75  jupyter
+   76  jupyter lab
+   77  ls
+   78  ls
+   79  cd ..
+   80  ls
+   81  cd..
+   82  cd ..
+   83  ls
+   84  cd headless_horsemen/
+   85  ls
+   86  cd 02_Headerless_Horsemen/
+   87  ls
+   88  cd Unsolved/
+   89  ls
+   90  jupyter notebook
+   91  ls
+   92  cd ..
+   93  ls
+   94  jupyter notebook
+   95  conda deactivate
+   96  exit
+   97  ls
+   98  cd Desktop/
+   99  ls
+  100  cd FinTech-Workspace/
+  101  ls
+  102  cd module_III/
+  103  ls
+  104  conda activate dev
+  105  ls
+  106  cd headless_horsemen/
+  107  ls
+  108  jupyter lab
+  109  ls
+  110  cd "C:\Users\rrkel\Downloads\Class_1_Activities (1)\Class_1_Activities\05-Ins_Column_Manipulation\Unsolved\.ipynb_checkpoints\column_manipulation-checkpoint.ipynb"/
+  111  cd ~\Users\rrkel\Downloads\Class_1_Activities (1)\Class_1_Activities\05-Ins_Column_Manipulation\Unsolved\.ipynb_checkpoints\column_manipulation-checkpoint.ipynb/
+  112  ls
+  113  cd ..
+  114  ls
+  115  jupyter lab
+  116  conda deactivate
+  117  ls
+  118  exit
+  119  git clone git@rice.bootcampcontent.com:Rice-Coding-Bootcamp/RICE-VIRT-FIN-PT-03-2022-U-B.git
+  120  ls
+  121  ls
+  122  ls
+  123  cd ..
+  124  ls
+  125  cd rrkel/
+  126  ls
+  127  cd Desktop/
+  128  ls
+  129  ls
+  130  cd..
+  131  cd ..
+  132  ls
+  133  cd RICE-VIRT-FIN-PT-03-2022-U-B/
+  134  ls
+  135  ls
+  136  git pull
+  137  ls
+  138  cd class/
+  139  ls
+  140  cd 03-Financial-Analysis-Pandas/
+  141  ls
+  142  cd 2/
+  143  ls
+  144  cd Activities/
+  145  ls
+  146  conda activate dev
+  147  ls
+  148  jupter lab
+  149  juypter lab
+  150  ls
+  151  jupyter lab
+  152  conda deactivate
+  153  exit
+  154  ls
+  155  cd Desktop/
+  156  ls
+  157  cd FinTech-Workspace/
+  158  ls
+  159  cd module_II__challenge/
+  160  ls
+  161  conda activate dev
+  162  ls
+  163  cd Starter_Code/
+  164  ls
+  165  cd loan_qualifier_app/
+  166  ls
+  167  python app.py
+  168  python app.py
+  169  ls
+  170  cd data/
+  171  ls
+  172  python app.py
+  173  ls
+  174  cd ..
+  175  ls
+  176  python app.py
+  177  ls
+  178  python app.py
+  179  ls
+  180  python app.py
+  181  python app.py
+  182  python app.py
+  183  python app.py
+  184  python app.py
+  185  python app.py
+  186  python app.py
+  187  python app.py
+  188  python app.py
+  189  ls
+  190  cd data
+  191  ls
+  192  cd..
+  193  cd //
+  194  ls
+  195  conda deactive
+  196  conda deactivate
+  197  exit
+  198  ls
+  199  cd Desktop/
+  200  ls
+  201  cd FinTech-Workspace/
+  202  ls
+  203  cd module_II_ch
+  204  ls
+  205  cd modulr_II_challenge/
+  206  ls
+  207  cd module_II_challenge/
+  208  conda active dev
+  209  ls
+  210  cd module_II_challenge/
+  211  conda avtive dev
+  212  conda activate dev
+  213  ls
+  214  cd module_II__challenge/
+  215  ls
+  216  cd Starter_Code/
+  217  ls
+  218  cd loan_qualifier_app/
+  219  ls
+  220  ls
+  221  python app.py
+  222  python app.py
+  223  python app.py
+  224  python app.py
+  225  python app.py
+  226  python app.py
+  227  ls
+  228  python app.py
+  229  python app.py
+  230  python app.py
+  231  python app.py
+  232  ls
+  233  python app.py
+  234  ls
+  235  python app.py
+  236  ls
+  237  cd data/
+  238  ls
+  239  cd ..
+  240  ls
+  241  python app.py
+  242  python app.py
+  243  python app.py
+  244  python app.py
+  245  python app.py
+  246  ls
+  247  ls data
+  248  python app.py
+  249  python app.py
+  250  python app.py
+  251  python app.py
+  252  python app.py
+  253  python app.py
+  254  python app.py
+  255  python app.py
+  256  python app.py
+  257  python app.py
+  258  python app.py
+  259  python app.py
+  260  python app.py
+  261  python app.py
+  262  python app.py
+  263  python app.py
+  264  python app.py
+  265  ls
+  266  ls
+  267  cd ..
+  268  ls
+  269  cd ..
+  270  ls
+  271  cd ..
+  272  ls
+  273  cd ..
+  274  ls
+  275  cd side_stuff/
+  276  ls
+  277  cd ..
+  278  ls
+  279  cd FinTech-Workspace/
+  280  ls
+  281  cd side_projects/
+  282  ls
+  283  python test_question.py
+  284  cd test_question/
+  285  ls
+  286  python test_question.py 
+  287  python test_question.py 
+  288  python test_question.py 
+  289  python test_question.py 
+  290  python test_question.py 
+  291  python test_question.py 
+  292  ls
+  293  cd ..
+  294  ls
+  295  cd ..
+  296  ls
+  297  cd module_II/
+  298  ls
+  299  cd ..
+  300  ls
+  301  cd module_II_challenge/
+  302  cd module_II__challenge/
+  303  ls
+  304  ls
+  305  cd Starter_Code/
+  306  ls
+  307  cd loan_qualifier_app/
+  308  ls
+  309  python app.py
+  310  python app.py
+  311  python app.py
+  312  python app.py
+  313  python app.py
+  314  python app.py
+  315  python app.py
+  316  python app.py
+  317  ls
+  318  python app.py
+  319  ls
+  320  cd data/
+  321  ls
+  322  mkdir willing_lenders
+  323  ls
+  324  cd willing_lenders/
+  325  ls
+  326  cd ..
+  327  ls
+  328  cd ..
+  329  ls
+  330  python app.py
+  331  python app.py
+  332  history 50 > terminal_history.txt
+  333  ls
+  334  conda deactivate
+  335  ;s
+  336  exit
+  337  ls
+  338  cd RICE-VIRT-FIN-PT-03-2022-U-B/
+  339  git pul orgin main
+  340  git pull origin main
+  341  ls
+  342  cd class/
+  343  ls
+  344  cd 04-Quantative-Analysis-with-Pandas/
+  345  ls
+  346  condata activate dev
+  347  conda activate dev
+  348  jupyter lab
+  349  ls
+  350  jupyter lab
+  351  conda deactivate
+  352  exit
+  353  ls
+  354  cd RICE-VIRT-FIN-PT-03-2022-U-B/
+  355  ls
+  356  cd class
+  357  ls
+  358  cd 04-Quantative-Analysis-with-Pandas/
+  359  conda activate dev
+  360  ls
+  361  cd 1/
+  362  ls
+  363  cd Activities/
+  364  ls
+  365  git pull origin main
+  366  jupyter lab
+  367  ls
+  368  cd ..
+  369  ls
+  370  ls
+  371  cd Activities/
+  372  ls
+  373  cd ..
+  374  ls
+  375  cd 06ls
+  376  ls
+  377  cd Activities/
+  378  ls
+  379  cd 06-Stu_Risk_Metrics/
+  380  ls
+  381  git pull origin main
+  382  ls
+  383  jupyter lab
+  384  ls
+  385  cd..
+  386  cd ..
+  387  ls
+  388  cd ..
+  389  ls
+  390  cd ..
+  391  ls
+  392  cd 2/
+  393  ls
+  394  cd Activities/
+  395  ls
+  396  git pull origin main
+  397  jupyter lab
+  398  conda deactive
+  399  conda deactivate
+  400  exit
+  401  ls
+  402  cd Desktop/
+  403  ls
+  404  cd FinTech-Workspace/
+  405  ls
+  406  cd module_III_challenge/
+  407  ls
+  408  cd Starter_Code
+  409  ls
+  410  cd Starter_Code/
+  411  ls
+  412  conda activate dev
+  413  jupyter lab
+  414  ls
+  415  cd ..
+  416  ls
+  417  cd ..
+  418  ls
+  419  cd ..
+  420  ls
+  421  cd side_projects/
+  422  ls
+  423  jupyter lab
+  424  conda list requests
+  425  conda list jason
+  426  pip installpython-dotenv
+  427  pip install python-dotenv
+  428  pip install alpaca-trade-api
+  429  pip list
+  430  pip list | grep -E "python-dotenv|alpaca-trade-api"
+  431  ls
+  432  ls
+  433  cd ..
+  434  ls
+  435  cd module_V/
+  436  ls
+  437  cd virtual_class_1/
+  438  ls
+  439  cd Class_1_Activities/
+  440  ls
+  441  cd Class_1_Activities/
+  442  ls
+  443  jupyter lab --ContentsManager.allow_hidden=True
+  444  ls
+  445  ls
+  446  cd ..
+  447  ls
+  448  cd ..
+  449  ls
+  450  cd ..
+  451  ls
+  452  ls
+  453  mkdir Quandl_API_Key
+  454  ls
+  455  cd Quandl_API_Key/
+  456  ls
+  457  conda activate dev
+  458  ls
+  459  upyter lab --ContentsManager.allow_hidden=True
+  460  jupyter lab --ContentsManager.allow_hidden=True
+  461  ls
+  462  jupyter lab --ContentsManager.allow_hidden=True
+  463  exit
+  464  ls
+  465  cd Desktop/
+  466  ls
+  467  cd FinTech-Workspace/
+  468  ls
+  469  cd module_V/
+  470  ls
+  471  cd Quandl_API_Key/
+  472  ls
+  473  conda activate dev
+  474  jupyter lab
+  475  git clone https://github.com/richard-kell/text_env.git
+  476  upyter lab --ContentsManager.allow_hidden=True
+  477  jupyter lab --ContentsManager.allow_hidden=True
+  478  ls
+  479  cd quandl_api_key.ipynb/
+  480  ls
+  481  jupyter lab --ContentsManager.allow_hidden=True
+  482  exit
+  483  ls
+  484  cd Desktop/
+  485  ls
+  486  cd FinTech-Workspace/
+  487  ls
+  488  cd module_V/
+  489  ls
+  490  conda activate dev
+  491  ls
+  492  mkdir my_Quandl_API_Key
+  493  ls
+  494  ls
+  495  cd my_Quandl_API_Key/
+  496  jupyter lab
+  497  ls
+  498  git clone https://github.com/richard-kell/text_env.git
+  499  jupyter lab --ContentsManager.allow_hidden=True
+  500  exit
+  501  ls
+  502  cd desk
+  503  cd Desktop/
+  504  ls
+  505  cd FinTech-Workspace/
+  506  ls
+  507  cd RICE-VIRT-FIN-PT-03-2022-U-B/
+  508  ls
+  509  cd class/
+  510  ls
+  511  git orgin -main
+  512  git --help
+  513  git pull orgin main
+  514  git pull origin main
+  515  ls
+  516  cd 04-Quantative-Analysis-with-Pandas/
+  517  ls
+  518  cd 2/
+  519  ls
+  520  cd Activities/
+  521  ls
+  522  cd ..
+  523  ls
+  524  cd ..
+  525  ls
+  526  cd ..
+  527  ls
+  528  cd ..
+  529  ls
+  530  cd ..
+  531  ls
+  532  cd module_IV/
+  533  ls
+  534  cd ..
+  535  ls
+  536  cd module_IV_challenge/
+  537  ls
+  538  cd Starter_Code/
+  539  ls
+  540  cd Starter_Code/
+  541  ls
+  542  conda activate dev
+  543  ls
+  544  pwd
+  545  ls
+  546  git init
+  547  git remote add origin git@github.com:richard-kell/module_IV_challenge.git
+  548  git add -A
+  549  git commit -m "First Commit"
+  550  git config --global user.email "rrkell1214@gmail.com"
+  551  git config --global user.name "Richard Kell"
+  552  git commit -m "First Commit"
+  553  git pull origin master
+  554  git pull origin main
+  555  git pull origin main --allow-unrealted-histories
+  556  rm -rf .git
+  557  cd ..
+  558  git clone git@github.com:richard-kell/module_IV_challenge.git
+  559  ls
+  560  cp -r Starter_Code/* module_IV_challenge/.
+  561  cd module_IV_challenge/
+  562  ls
+  563  git add -A
+  564  commit -m
+  565  git commit -m "First Commit"
+  566  git push origin main
+  567  history > history.txt
